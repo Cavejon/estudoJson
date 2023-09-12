@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Cavejon",
+        "idade": 21,
+        "cidade": "Joinville",
+        "esta_trabalhando": true,
+        "detalhes_profissao": {
+            "profissao": "Programador",
+            "empresa": "Freeline"
+        },
+        "hobbies": [
+            "Programar",
+            "Correr",
+            "Ler"
+        ]
+    }
+]
